@@ -18,4 +18,4 @@ def reduce(array, sv=nil)
     i=1
   end
   while i<array.lenth 
-  sum=
+  sum=yield 
